@@ -1,1 +1,1 @@
-# DevOps Certification Training
+# DevOps Training
